@@ -1,0 +1,9 @@
+safetensors 
+opencv-python
+transformers
+accelerate
+git+https://github.com/huggingface/diffusers.git
+xformers
+controlnet_aux
+mediapipe
+basicsr
